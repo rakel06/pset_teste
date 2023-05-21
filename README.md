@@ -15,7 +15,7 @@
 #### Segundo o filósofo Edmund Burk
 > A dificuldade é um severo instrutor.
 
-#### É de fato é! Agradeço ao professor Abrantes por ter uma didática e metodologia de ensino incríveis. 
+#### E de fato é! Agradeço ao professor Abrantes por ter uma didática e metodologia de ensino incríveis. 
 ---
 
 ## Esse projeto tem quatro grandes objetivos:
