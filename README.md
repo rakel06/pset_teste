@@ -40,12 +40,8 @@
 
  ## O projeto lógico que será implementado no PostgreSQL é o projeto do banco de dados “Lojas UVV”. A imagem a seguir é o diagrama relacional desse banco de dados.
 
+![lojas-uvv](https://github.com/rakel06/uvv_bd1_si1n/assets/131298397/052eca53-ee36-4644-8de9-ab30aa5493bd)
 
-
-![Lojas UVV][def]
-
-
-[def]: ([lojas-uvv.png](https://github.com/rakel06/uvv_bd1_si1n/blob/a930fbbdd45c6da3d2120679525eea9021125b82/lojas-uvv.png))
 
 # Implementação no PostgreSQL
 O PostgreSQL (https://www.postgresql.org) é o SGBD relacional open-source mais avançado que existe hoje em dia e iremos utilizá - lo para implementar esse banco de dados. 
