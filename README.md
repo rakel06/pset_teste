@@ -45,8 +45,7 @@
 ![Lojas UVV][def]
 
 
-[def]: (https://file%2B.vscode-resource.vscode-cdn.net/Users/macosx/Downloads/lojas-uvv.png?version%3D1684638548557)
-
+[def]: (lojas-uvv.png)
 
 # Implementação no PostgreSQL
 O PostgreSQL (https://www.postgresql.org) é o SGBD relacional open-source mais avançado que existe hoje em dia e iremos utilizá - lo para implementar esse banco de dados. 
