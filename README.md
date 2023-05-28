@@ -2,8 +2,9 @@
 ## _PSET_ 1
 ## Rakel Freire da Silva
 ## Professor: Abrantes Araújo Silva Filho
-
+## Monitoria: Suellen Miranda Amorim
 ---
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 ### Sou aluna do curso de Sistemas de Informação da Universidade de Vila Velha e estou desenvolvendo um trabalho para a matéria de Design e Desenvolvimento de Banco de Dados aplicada pelo professor Abrantes Araújo Silva Filho. 
@@ -18,6 +19,19 @@
 #### E de fato é! Agradeço ao professor Abrantes por ter uma didática e metodologia de ensino incríveis. 
 ---
 
+## Visão geral do PSET
+
+# Neste PSET tivemos duas terefas:
+
+ -  Responder questões discursivas sobre a matéria;
+ - Implementar um banco de dados no PostgreSQL, a partir de um diagrama relacional, e escrever códigos SQL para gerar diversos relatórios. 
+ 
+ A Figura 1 ilustra as tarefas do PSET:
+ 
+ <div align="center">
+<img src="https://github.com/rakel06/uvv_bd1_si1n/assets/131298397/45619ecd-af44-4342-b89d-592dee006bf1" width="500px" />
+</div>
+
 ## Esse projeto tem quatro grandes objetivos:
 - O aprendizado sobre sistemas de controles de versões, em especial o Git e o serviço web GitHub.
 - A aprendizagem da linguagem de marcação Markdown, em geral, e sobre a versão GitHub Flavored Markdown.
@@ -26,24 +40,23 @@
 - Apredizado de Structured Query Language (SQL) em nível básico e intermediário.
 
 
-<P>
-
-
-
-
-
-
-
-</P>
- 
  # Banco de Dados: Lojas UVV
 
  ## O projeto lógico que será implementado no PostgreSQL é o projeto do banco de dados “Lojas UVV”. A imagem a seguir é o diagrama relacional desse banco de dados.
 
 <div align="center">
 <img src="https://github.com/rakel06/uvv_bd1_si1n/assets/131298397/052eca53-ee36-4644-8de9-ab30aa5493bd" width="800px" />
-</div>)
+</div>
 
 
 # Implementação no PostgreSQL
-O PostgreSQL (https://www.postgresql.org) é o SGBD relacional open-source mais avançado que existe hoje em dia e iremos utilizá - lo para implementar esse banco de dados. 
+O PostgreSQL (https://www.postgresql.org) é o SGBD relacional open-source mais avançado que existe hoje em dia e foi usado para implementar esse banco de dados. Fiz a implementação do projeto lógico de banco de dados simulando as “Lojas UVV”. Esse banco de dados foi disponibilizado pela Oracle, para treinamento em SQL, e foi levemente modificado para se adequar às necessidades do meu curso. 
+
+
+# Autores
+
+<div align="center">
+  <img src="https://github.com/rakel06/uvv_bd1_si1n/assets/131298397/23e267bc-7f7c-4791-b016-6f26002d9cf5" width="150px"/>
+  <br>
+  <span style="display: block; font-size: 14px; margin-top: 10px;">Rakel Freire da Silva</span>
+</div>
