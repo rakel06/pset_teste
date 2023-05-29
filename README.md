@@ -13,7 +13,8 @@
    * [Visão Geral do PSET](#visão-geral-do-pset)
    * [Objetivo](#objetivo)
    * [Banco de Dados: Lojas UVV](#banco-de-dados-lojas-uvv)
-   * [Implementação com PostgreSQL](#implementação-com-postgresql)
+   * [Implementação no PostgreSQL](#implementação-no-postgresql)
+   * [Conclusão](#conclusão)
    * [Autores](#autores)
 <!--te-->
 
@@ -21,7 +22,7 @@
 
 ## Introdução
 
-### Sou aluna do curso de Sistemas de Informação da Universidade de Vila Velha e estou desenvolvendo um trabalho para a matéria de Design e Desenvolvimento de Banco de Dados aplicada pelo professor Abrantes Araújo Silva Filho. 
+#### Sou aluna do curso de Sistemas de Informação da Universidade de Vila Velha e estou desenvolvendo um trabalho para a matéria de Design e Desenvolvimento de Banco de Dados aplicada pelo professor Abrantes Araújo Silva Filho. 
 #### Primeiramente irei explicar em poucas palavras o que é um **PSET**. 
  **Essa  metodologia consiste em um conjunto de problemas ou exercícios relacionados a um determinado tema ou assunto estudado. Geralmente, esses problemas são propostos aos alunos como uma forma de prática e consolidação dos conhecimentos adquiridos em sala de aula. São projetados para estimular o pensamento crítico, a resolução de problemas e a aplicação prática dos conceitos aprendidos.**
 
@@ -66,8 +67,15 @@
 
 
 ## Implementação no PostgreSQL
-O PostgreSQL (https://www.postgresql.org) é o SGBD relacional open-source mais avançado que existe hoje em dia e foi usado para implementar esse banco de dados. Fiz a implementação do projeto lógico de banco de dados simulando as “Lojas UVV”. Esse banco de dados foi disponibilizado pela Oracle, para treinamento em SQL, e foi levemente modificado para se adequar às necessidades do meu curso. 
+O **PostgreSQL** (https://www.postgresql.org) é o SGBD relacional open-source mais avançado que existe hoje em dia e foi usado para implementar esse banco de dados. Fiz a implementação do projeto lógico de banco de dados simulando as “Lojas UVV”. Esse banco de dados foi disponibilizado pela Oracle, para treinamento em SQL, e foi levemente modificado para se adequar às necessidades do meu curso. 
 
+## Conclusão
+
+Este projeto representa o trabalho realizado como parte do meu curso de Sistemas de Informação. Durante o desenvolvimento deste projeto, pude aplicar os conhecimentos adquiridos ao longo do curso e explorar novas tecnologias e conceitos.
+
+Ao longo do processo de desenvolvimento, enfrentei desafios significativos que me permitiram aprimorar minhas habilidades técnicas e de resolução de problemas. 
+
+Estou satisfeito com os resultados alcançados neste projeto e acredito que ele demonstra minha capacidade de desenvolvimento e minha dedicação ao curso. 
 
 # Autores
 
